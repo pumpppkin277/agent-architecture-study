@@ -4,10 +4,10 @@
 
 ## 本地运行
 
-直接打开 `dist/index.html`，或在项目目录运行：
+直接打开 `index.html`，或在项目目录运行：
 
 ```bash
-python3 -m http.server 8000 --directory dist
+python3 -m http.server 8000
 ```
 
 然后访问 `http://localhost:8000`。
