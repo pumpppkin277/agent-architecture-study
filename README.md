@@ -13,7 +13,3 @@ python3 -m http.server 8000
 然后访问 `http://localhost:8000`。
 
 学习任务与笔记保存在浏览器 `localStorage` 中；不同设备或浏览器之间不会自动同步。
-
-## 线上版本
-
-[打开网站](https://agent-architecture-study-2026.qiaochuy04.chatgpt.site)
