@@ -16,4 +16,4 @@ python3 -m http.server 8000
 
 [GitHub Pages 网站](https://pumpppkin277.github.io/agent-architecture-study/)
 
-[旧版学习计划](https://pumpppkin277.github.io/agent-architecture-study/legacy.html)仍可访问，旧版的浏览器本地进度和笔记可在原设备及浏览器中查看。新版和旧版各自保存进度，数据不会自动迁移或跨设备同步。
+学习进度保存在当前浏览器中，不会自动跨设备同步。
